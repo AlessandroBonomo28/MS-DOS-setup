@@ -11,9 +11,9 @@
 10) Follow the installation instruction and load the next floppy when the system asks for it.
 11) At this point you should have installed all the floppy disks.
 12) You have successfully installed MSDOS on your hard disk / optical 
-By default MSDOS will try to boot using the floppy.
-In order to boot MSDOS from disk / optical you have to edit your boot order settings.
-In order to edit your boot order settings you have to:
+- By default MSDOS will try to boot using the floppy.
+  In order to boot MSDOS from disk / optical you have to edit your boot order settings.
+  In order to edit your boot order settings you have to:
 1) Open virtual box
 2) Go to the settings panel of MSDOS machine
 3) Go to system section
