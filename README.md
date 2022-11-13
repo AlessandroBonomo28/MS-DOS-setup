@@ -18,3 +18,5 @@
 2) Go to the settings panel of MSDOS machine
 3) Go to system section
 4) Now you can edit your boot order by dragging up and down the floppy, hard disk and optical.
+- By default the keyboard language is set to US. If you want to change it you can use the 'keyb \<language\>' command
+  I added this line in my autoexec.bat file: keyb it. This way MSDOS will boot with the Italian keyboard language.  
